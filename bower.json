@@ -1,0 +1,21 @@
+{
+  "name": "Portifolio Teste",
+  "homepage": "https://github.com/LAestudo/portifolio-estudo",
+  "authors": [
+    "LAestudo <lafmfal@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
